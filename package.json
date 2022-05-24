@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## User Story AS A small business owner\\ I WANT to be able to write and save notes\\ SO THAT I can organize my thoughts and keep track of tasks I need to complete",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessGallo/express.js-note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JessGallo/express.js-note-taker/issues"
+  },
+  "homepage": "https://github.com/JessGallo/express.js-note-taker#readme"
 }
